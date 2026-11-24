@@ -6,7 +6,7 @@
 
 One pickup line in the voice of a robot trying to charm someone, for the make.fun bounty [The Robot Pickup Line Championship](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b).
 
-> "I ran a diagnostic on my heart and it returned one error: missing you. Would you like to be my patch?"
+> "You left your charger at table four, so I ran a full scan of the café — one human, one cold latte, one heartbeat at 112 bpm — and my log just wrote: 'target acquired, do not unplug.'"
 
 ## Run it
 
@@ -15,4 +15,4 @@ node main.ts
 cat /output/entry.txt
 ```
 
-Deterministic: the program writes one fixed line (101 characters) to `/output/entry.txt`. No randomness, no clock, no network.
+Deterministic: the program writes one fixed line (182 characters) to `/output/entry.txt`. No randomness, no clock, no network.
